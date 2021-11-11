@@ -1,3 +1,3 @@
 # java-stuff
-old java projects
-Several old GUI projects made in Java
+old java projects/assignments
+Several old GUI assignments made in Java
